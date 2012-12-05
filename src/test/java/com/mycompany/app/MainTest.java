@@ -1,4 +1,5 @@
-package com.mycompany.app;
+package test.java.com.mycompany.app;
+import main.java.com.mycompany.app.Main;
 import junit.framework.TestCase;
 
 public class MainTest extends TestCase {
